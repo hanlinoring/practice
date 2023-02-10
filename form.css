@@ -1,0 +1,9 @@
+body {background-color: #FAFAD2}
+
+label.blocklabel {display: block; position:relative; margin:12px 0px}
+label.blocklabel input {position:absolute; left:150px}
+
+#firstName, #lastName, #street {width: 25em}
+#phone, #city					{width: 10em}
+#state							{width: 7em}
+#zip							{width: 5em}
